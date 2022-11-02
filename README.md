@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A passionate AI/ML enthusiast from India</h3>
+<h3 align="left">A passionate AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraja&label=Profile%20views&color=0e75b6&style=flat" alt="souraja" /> </p>
 
@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souraja&show_icons=true&locale=en&layout=compact" alt="souraja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souraja&show_icons=true&locale=en" alt="souraja" /></p>
+
 
 <!--
 **souraja/souraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
