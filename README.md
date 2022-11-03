@@ -46,13 +46,14 @@
 ```python
 const souraja = {
   pronouns: "she" | "her",
+  education: ["Electronics undergrad in Heritage Institute of Technology"],
   code: [Python,C, MySQL],
   tools: ['Tensorflow','PyTorch','Numpy','Pandas','Matplotlib','Seaborn','Scikit-Learn','Jupyter Notebook','VS Code'],
   architecture: ["data acquisition", "data processing", "data modeling", "execution", "deployment"],
   techCommunities: {
                       member: ["Women Techmakers", "Google Developer Students Club HIT"]
                     }
-  freetime:['Open source contribution','Thriller tv shows','chess']
+  freetime:['Open source contribution','Thriller tv shows','chess'],
   fun fact:["Uses tabs over spaces"]
 }
 ```
